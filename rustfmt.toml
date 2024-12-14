@@ -1,0 +1,7 @@
+indent_style = "Block"
+tab_spaces = 4
+imports_granularity = "Crate"
+group_imports = "StdExternalCrate"
+reorder_imports = true
+chain_width = 40
+max_width = 100
